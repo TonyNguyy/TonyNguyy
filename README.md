@@ -1,7 +1,7 @@
 ![banner](https://github.com/TonyNguyy/TonyNguyy/assets/102321536/2cdc0d49-4cfa-4b1e-9ab2-8dabd995c309)
 
 <h1 align="center">Hi, I'm Tony</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Am Passionate Programmer</h3>
 
 - 🌱 I’m currently learning **React Native**
 
