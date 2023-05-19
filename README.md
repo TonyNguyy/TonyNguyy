@@ -1,4 +1,5 @@
-![banner](https://github.com/TonyNguyy/TonyNguyy/assets/102321536/2cdc0d49-4cfa-4b1e-9ab2-8dabd995c309)
+![banner (1)](https://github.com/TonyNguyy/TonyNguyy/assets/102321536/e30225ae-99ad-4952-bf65-574691f229d7)
+
 
 <h1 align="center">Hello World, I'm Tony</h1>
 <h3 align="center">A Passionate Programmer</h3>
