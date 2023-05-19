@@ -4,7 +4,7 @@
 <h1 align="center">Hello World, I'm Tony</h1>
 <h3 align="center">A Passionate Programmer</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **ReactJS**
 
 - 📫 How to reach me **tonynguyy@gmail.com**
 
