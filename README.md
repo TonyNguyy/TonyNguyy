@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 📫 How to reach me **tonynguyy@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/codingwithtony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codingwithtony" height="30" width="40" /></a>
