@@ -1,7 +1,7 @@
 ![banner (2)](https://github.com/TonyNguyy/TonyNguyy/assets/102321536/3111b38a-e286-4cfa-b257-2ed54a27ede7)
 
 
-<h1 align="center">Hello World, I'm Tony</h1>
+<h1 align="center">Hello World, I'm Tony </h1>
 <h3 align="center">A Passionate Programmer</h3>
 
 - 🌱 I’m currently learning **ReactJS**
