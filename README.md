@@ -1,6 +1,6 @@
 ![banner (2)](https://github.com/TonyNguyy/TonyNguyy/assets/102321536/3111b38a-e286-4cfa-b257-2ed54a27ede7)
 
-<h1 align="center">Welcome!My Name is Tony</h1>
+<h1 align="center">Hi, I'm Tony! </h1>
 <h3 align="center">I love design, coding, and coffee making!</h3>
 
 - 🌱 I’m currently working with **ReactJS to create Web Applications!**
